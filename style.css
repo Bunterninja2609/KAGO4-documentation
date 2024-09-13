@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#head{
+    width: 100%;
+    height: 20%;
+    background-color: dodgerblue;
+    /*background-color: mediumvioletred;
+    background-color: mediumseagreen;*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: whitesmoke;
+    box-shadow: black 0px 5px 2px;
+    z-index: 1e1000;
+}
+#menu{
+    background-color: mediumseagreen;
+    position: fixed;
+    left:0;
+    top:0;
+    height: 100%;
+    width: 20%;
+}
+a{
+    text-decoration: none;
+}
